@@ -1,0 +1,14 @@
+/home/luigi/Documentos/Estudo/C#-projeto-musica/bin/Debug/net8.0/C#-projeto-musica
+/home/luigi/Documentos/Estudo/C#-projeto-musica/bin/Debug/net8.0/C#-projeto-musica.deps.json
+/home/luigi/Documentos/Estudo/C#-projeto-musica/bin/Debug/net8.0/C#-projeto-musica.runtimeconfig.json
+/home/luigi/Documentos/Estudo/C#-projeto-musica/bin/Debug/net8.0/C#-projeto-musica.dll
+/home/luigi/Documentos/Estudo/C#-projeto-musica/bin/Debug/net8.0/C#-projeto-musica.pdb
+/home/luigi/Documentos/Estudo/C#-projeto-musica/obj/Debug/net8.0/C#-projeto-musica.GeneratedMSBuildEditorConfig.editorconfig
+/home/luigi/Documentos/Estudo/C#-projeto-musica/obj/Debug/net8.0/C#-projeto-musica.AssemblyInfoInputs.cache
+/home/luigi/Documentos/Estudo/C#-projeto-musica/obj/Debug/net8.0/C#-projeto-musica.AssemblyInfo.cs
+/home/luigi/Documentos/Estudo/C#-projeto-musica/obj/Debug/net8.0/C#-projeto-musica.csproj.CoreCompileInputs.cache
+/home/luigi/Documentos/Estudo/C#-projeto-musica/obj/Debug/net8.0/C#-projeto-musica.dll
+/home/luigi/Documentos/Estudo/C#-projeto-musica/obj/Debug/net8.0/refint/C#-projeto-musica.dll
+/home/luigi/Documentos/Estudo/C#-projeto-musica/obj/Debug/net8.0/C#-projeto-musica.pdb
+/home/luigi/Documentos/Estudo/C#-projeto-musica/obj/Debug/net8.0/C#-projeto-musica.genruntimeconfig.cache
+/home/luigi/Documentos/Estudo/C#-projeto-musica/obj/Debug/net8.0/ref/C#-projeto-musica.dll
