@@ -53,4 +53,4 @@ void ExibirOpcoesDoMenu()
 ExibirMensagemdeBoasVindas();
 ExibirOpcoesDoMenu();
 
-//pausa pro almoço
+//almoço
