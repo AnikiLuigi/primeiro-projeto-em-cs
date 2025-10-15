@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/luigi/Documentos/Estudo/C#-projeto-musica/C#-projeto-musica.csproj",
+      "projectUniqueName": "/home/luigi/Documentos/Estudo/primeiro-projeto-em-cs/C#-projeto-musica.csproj",
       "projectName": "C#-projeto-musica",
-      "projectPath": "/home/luigi/Documentos/Estudo/C#-projeto-musica/C#-projeto-musica.csproj",
+      "projectPath": "/home/luigi/Documentos/Estudo/primeiro-projeto-em-cs/C#-projeto-musica.csproj",
       "packagesPath": "/home/luigi/.nuget/packages/",
-      "outputPath": "/home/luigi/Documentos/Estudo/C#-projeto-musica/obj/",
+      "outputPath": "/home/luigi/Documentos/Estudo/primeiro-projeto-em-cs/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/luigi/.nuget/NuGet/NuGet.Config"
